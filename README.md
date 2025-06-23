@@ -64,6 +64,7 @@ Accept-Language: fr
 - English (en) - Default
 - German (de)
 - French (fr)
+- Portugês (pt)
 
 ### Contributing Translations
 We welcome contributions for new languages! Simply create a new JSON file in the `reasons` directory:
